@@ -1,0 +1,2 @@
+def newFun(a):
+    print "wtf"
